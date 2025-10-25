@@ -1,0 +1,8 @@
+
+{
+  "name": "nano-banana-prompt-crafter",
+  "version": "1.0.0",
+  "description": "An AI-powered application to generate creative and detailed prompts for image generation models.",
+  "private": true,
+  "scripts": {}
+}
